@@ -8,4 +8,4 @@
 
 # Education : 
 * Cairo University, Faculty of Engineering, Systems and Biomedical Engineering. 
-! [/home/reham/Desktop/my website/reham-abdelfatah/WhatsApp Image 2019-11-11 at 10.35.35 PM.jpeg] (Profile picture )
+* ! [/home/reham/Desktop/my website/reham-abdelfatah/WhatsApp Image 2019-11-11 at 10.35.35 PM.jpeg] (Profile picture )
