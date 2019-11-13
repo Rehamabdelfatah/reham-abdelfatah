@@ -8,7 +8,7 @@
 * [Linkedin](https://www.linkedin.com/in/reham-abdelfatah-34b968185/)
 # Education : 
 * Cairo University, Faculty of Engineering, Systems and Biomedical Engineering. 
-# Skills
+# Skills :
 * c language
 * c++ language
 * R language
