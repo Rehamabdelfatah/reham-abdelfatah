@@ -5,7 +5,14 @@
 * Address : Elbahr el Azam street , Giza
 * [Github](https://github.com/Rehamabdelfatah)
 * [Twitter](https://twitter.com/rehamabdelfata2)
-
+* [Linkedin](https://www.linkedin.com/in/reham-abdelfatah-34b968185/)
 # Education : 
 * Cairo University, Faculty of Engineering, Systems and Biomedical Engineering. 
-* ! [/home/reham/Desktop/my website/reham-abdelfatah/WhatsApp Image 2019-11-11 at 10.35.35 PM.jpeg] (Profile picture )
+# Skills
+* c language
+* c++ language
+* R language
+* matlab
+* python
+* proteus
+* latex
